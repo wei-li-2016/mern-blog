@@ -1,1 +1,1 @@
-# mern-blog
+## The back-end provides the REST API 
